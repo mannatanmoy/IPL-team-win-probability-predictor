@@ -14,5 +14,5 @@ This project predicts the winning probability of an IPL team at any given ball i
 ✅ The model provides reliable predictions for IPL matches based on ball-by-ball data.
 ✅ Accuracy is evaluated against historical IPL matches.
 # **Future Enhancements:**
-Incorporate advanced ML models (e.g., Random Forest, Neural Networks)
-Use real-time match data streaming for live predictions
+✅ Incorporate advanced ML models (e.g., Random Forest, Neural Networks)
+✅ Use real-time match data streaming for live predictions
